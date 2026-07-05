@@ -75,7 +75,60 @@ insights on customers, sales, inventory, suppliers, and products.
 
 - Certificate in Data Analytics, Utah Valley University
 
-<!-- Additional DataCamp certifications to be added once provided. -->
+## DataCamp Coursework
+
+Statements of Accomplishment across 36 completed DataCamp courses, organized by area.
+
+### Python and R Programming
+
+- Introduction to Python
+- Intermediate Python
+- Introduction to Functions in Python
+- Introduction to R
+- Data Manipulation with pandas
+- Data Manipulation with dplyr
+- Exploratory Data Analysis in R
+
+### SQL and Databases
+
+- Introduction to SQL
+- Intermediate SQL
+- Joining Data in SQL
+- Exploratory Data Analysis in SQL
+- Introduction to Relational Databases in SQL
+- Introduction to Databases in Python
+- Database Design
+- Introduction to Data
+
+### Statistics and Machine Learning
+
+- Introduction to Statistics in Python
+- Introduction to Statistics in R
+- Introduction to Statistics in Google Sheets
+- Introduction to Regression with statsmodels in Python
+- Supervised Learning with scikit-learn
+- Unsupervised Learning in Python
+- Cluster Analysis in Python
+- Machine Learning with Tree-Based Models in Python
+- Understanding Machine Learning
+- Understanding Artificial Intelligence
+
+### Data Visualization and Business Intelligence
+
+- Introduction to Data Visualization with Seaborn
+- Introduction to Power BI
+- Data Visualization in Power BI
+- Introduction to DAX in Power BI
+- Introduction to Tableau
+- Analyzing Data in Tableau
+- Data Communication Concepts
+
+### Data Engineering, Excel, and AI Tools
+
+- Understanding Data Engineering
+- Data Analysis in Excel
+- Case Study: Analyzing Customer Churn in Excel
+- Understanding ChatGPT
 
 ## Currently Learning
 
