@@ -71,6 +71,13 @@ statistical analysis, and visualization.
 A SQL analysis project querying a relational business database to surface
 insights on customers, sales, inventory, suppliers, and products.
 
+### [DataCamp Projects Portfolio](https://github.com/sisi195/datacamp-projects)
+
+A collection of 11 guided data projects completed through DataCamp, each
+documented with its business context, dataset, approach, and skills. Topics span
+data cleaning, classification, regression, clustering, hypothesis testing, and
+data visualization in Python and SQL.
+
 ## Certifications
 
 - Certificate in Data Analytics, Utah Valley University
